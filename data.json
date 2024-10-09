@@ -74,6 +74,32 @@
         "miktar": "₺999",
         "promo_code_yok": "KAYIT OL 999TL BONUS AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/sefaletxgala",
+        "desc": [
+          "100 FREE SPIN"
+        ],
+        "site": "galabet",
+        "sort": null,
+        "color": "#58a400",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "VEYA 100 FREE BET",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/sefaletxvippark",
+        "desc": [
+          "100 FREE SPIN"
+        ],
+        "site": "vippark",
+        "sort": null,
+        "color": "#ebc45e",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "VEYA 100 FREE BET",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -186,6 +212,14 @@
           {
             "site": "betewin",
             "sort": "6"
+          },
+          {
+            "site": "galabet",
+            "sort": "7"
+          },
+          {
+            "site": "vippark",
+            "sort": "8"
           }
         ]
       },
