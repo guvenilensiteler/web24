@@ -102,6 +102,18 @@
         "slider_img": ""
       },
       {
+        "url": "https://bit.ly/ogexonwin",
+        "desc": [
+          "SMS DOĞRULA DENEME BONUSU AL"
+        ],
+        "site": "onwin",
+        "sort": null,
+        "color": "#ba10a1",
+        "miktar": "₺750",
+        "promo_code_yok": "%30 KAYIP BONUSU - SINIRSIZ ÇEKİM",
+        "slider_img": ""
+      },
+      {
         "url": "https://bit.ly/sefaletxhit",
         "desc": [
           "ÜYE OL KODU GİR DENEME BONUNUSUNU AL"
@@ -234,8 +246,12 @@
             "sort": "8"
           },
           {
-            "site": "hitbet",
+            "site": "onwin",
             "sort": "9"
+          },
+          {
+            "site": "hitbet",
+            "sort": "10"
           }
         ]
       },
