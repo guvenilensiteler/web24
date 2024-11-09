@@ -124,6 +124,18 @@
         "miktar": "₺100",
         "promo_code": "HITDENEME",
         "slider_img": ""
+      },
+      {
+        "url": "https://stake1022.com/?c=stake14dolar",
+        "desc": [
+          "DÜNYANIN EN GÜVENİLİR SİTESİ"
+        ],
+        "site": "stake",
+        "sort": null,
+        "color": "#1475e1",
+        "miktar": "$14",
+        "promo_code": null,
+        "slider_img": ""
       }
     ],
     "social": {
@@ -252,6 +264,10 @@
           {
             "site": "hitbet",
             "sort": "10"
+          },
+          {
+            "site": "stake",
+            "sort": "11"
           }
         ]
       },
