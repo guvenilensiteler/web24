@@ -226,47 +226,47 @@
         "sort": "3",
         "sites": [
           {
-            "site": "tarafbet",
+            "site": "galabet",
             "sort": "1"
           },
           {
-            "site": "betkom",
+            "site": "vippark",
             "sort": "2"
           },
           {
-            "site": "mariobet",
+            "site": "onwin",
             "sort": "3"
           },
           {
-            "site": "bahiscom",
+            "site": "hitbet",
             "sort": "4"
           },
           {
-            "site": "bankobet",
+            "site": "stake",
             "sort": "5"
           },
           {
-            "site": "betewin",
+            "site": "tarafbet",
             "sort": "6"
           },
           {
-            "site": "galabet",
+            "site": "betkom",
             "sort": "7"
           },
           {
-            "site": "vippark",
+            "site": "mariobet",
             "sort": "8"
           },
           {
-            "site": "onwin",
+            "site": "bahiscom",
             "sort": "9"
           },
           {
-            "site": "hitbet",
+            "site": "bankobet",
             "sort": "10"
           },
           {
-            "site": "stake",
+            "site": "betewin",
             "sort": "11"
           }
         ]
