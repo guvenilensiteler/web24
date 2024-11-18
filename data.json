@@ -136,6 +136,30 @@
         "miktar": "$14",
         "promo_code": null,
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexdark",
+        "desc": [
+          "BONUSU AL - 2.500₺ yap 500 ÇEK"
+        ],
+        "site": "darkbet",
+        "sort": null,
+        "color": "#ffc000",
+        "miktar": "₺250",
+        "promo_code": "DARKBET250",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexforce",
+        "desc": [
+          "5$ YENİ ÜYELİK BONUSU"
+        ],
+        "site": "betforce",
+        "sort": null,
+        "color": "#886cff",
+        "miktar": "$5",
+        "promo_code_yok": "50$ YAP 10$ ÇEK",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -268,6 +292,14 @@
           {
             "site": "betewin",
             "sort": "11"
+          },
+          {
+            "site": "darkbet",
+            "sort": "12"
+          },
+          {
+            "site": "betforce",
+            "sort": "13"
           }
         ]
       },
