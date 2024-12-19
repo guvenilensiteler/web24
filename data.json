@@ -261,7 +261,7 @@
             "site": "onwin",
             "sort": "3"
           },
-          
+
           {
             "site": "stake",
             "sort": "5"
@@ -289,14 +289,6 @@
           {
             "site": "betewin",
             "sort": "11"
-          },
-          {
-            "site": "darkbet",
-            "sort": "12"
-          },
-          {
-            "site": "betforce",
-            "sort": "13"
           }
         ]
       },
